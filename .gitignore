@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Mac OS X Finder files
+.DS_Store
+
+# Ansible
+ansible.retry
+ansible.log
+ansible.log.*
+
+# NGINX
+*.key
+*.crt
+*.pem
