@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  wordpress:
+    image: wordpress:latest
+    container_name: wordpress_instance
+    ports:
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: 10.222.69.423 # IP of the MySQL container
+      WORDPRESS_DB_USER: wordpressuser
+      WORDPRESS_DB_PASSWORD: password
+      WORDPRESS_DB_NAME: wordpress
+    restart: unless-stopped
