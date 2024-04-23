@@ -6,6 +6,14 @@
 
 <img src="/architecture.png" width="300" alt="Architecture">
 
+## Video Demo
+
+[https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI](https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI)
+
+## Project URL
+
+[https://reto3.grisu.co/](https://reto3.grisu.co/)
+
 ## Project Structure
 
 This repository is organized into several directories, each containing components necessary for the deployment of the application:
