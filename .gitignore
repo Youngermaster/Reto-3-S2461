@@ -8,6 +8,7 @@
 ansible.retry
 ansible.log
 ansible.log.*
+hosts.ini
 
 # NGINX
 *.key
