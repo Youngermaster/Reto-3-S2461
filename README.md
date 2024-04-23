@@ -8,7 +8,13 @@
 
 ## Video Demo
 
+### YouTube Video
+
 [https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI](https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI)
+
+### Video File
+
+[Download Video](https://eafit-my.sharepoint.com/:f:/g/personal/jmyoungh_eafit_edu_co/EsMJWWKnWZBKu50FoQLVi7gBQ3XdO7lIzwNRgEtisKlGIA?e=ogpBPc)
 
 ## Project URL
 
