@@ -10,6 +10,8 @@
 
 ### YouTube Video
 
+> Note: The video is in Spanish.
+
 [https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI](https://www.youtube.com/watch?v=1Q6J9Q1Z9ZI)
 
 ### Video File
@@ -17,6 +19,8 @@
 [Download Video](https://eafit-my.sharepoint.com/:f:/g/personal/jmyoungh_eafit_edu_co/EsMJWWKnWZBKu50FoQLVi7gBQ3XdO7lIzwNRgEtisKlGIA?e=ogpBPc)
 
 ## Project URL
+
+> Note: The project URL may not be available after the project deadline. Because the project is hosted on AWS, the instances may be terminated after the project evaluation.
 
 [https://reto3.grisu.co/](https://reto3.grisu.co/)
 
